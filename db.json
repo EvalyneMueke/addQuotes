@@ -1,0 +1,19 @@
+{
+  "quotes": [
+    {
+      "quote": "It is never that serious",
+      "author": "Zazu",
+      "id": 1
+    },
+    {
+      "author": "Lavin",
+      "quote": "Dont be a slave of your own mind",
+      "id": 2
+    },
+    {
+      "author": "sax",
+      "quote": "Just Start",
+      "id": 4
+    }
+  ]
+}
